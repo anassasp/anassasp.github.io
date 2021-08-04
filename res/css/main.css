@@ -108,7 +108,7 @@ h2 {
 /* Banner Section */
 .home {
   box-sizing: border-box;
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("../img/IMG_5147.jpg") no-repeat center;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("../img/IMG_5147.JPG") no-repeat center;
   height: 100vh;
   background-size: cover;
   background-attachment: fixed;
